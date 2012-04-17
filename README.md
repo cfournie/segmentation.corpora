@@ -6,7 +6,7 @@ This repository holds multiply segmented corpora from the papers below.  Please 
 
 Directories
 -----------
-- /hearst_1997/ - Segmentations of "Stargazers look for life", by Baker (1990), codings collected by Hearst (1997).
+- /hearst_1997/ - Segmentations of "[Stargazers look for life](https://github.com/downloads/cfournie/segmentation.corpora/stargazers_look_for_life.pdf)", by Baker (1990), codings collected by Hearst (1997).
 
 
 References
