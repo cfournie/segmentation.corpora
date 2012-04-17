@@ -1,5 +1,5 @@
 Segmentation Corpora
-==============================================
+====================
 
 This repository holds multiply segmented corpora from the papers below.  Please remember to cite the papers, and read the FORMATS.md file to understand how they are encoded.
 
@@ -10,7 +10,7 @@ Directories
 
 
 References
------------
+----------
 
 Baker (1990)	David Baker. 1990. Stargazers look for life. South Magazine 117, 76–77. South Publications.
 
