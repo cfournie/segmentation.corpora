@@ -1,5 +1,5 @@
-Notes for Hearst (1997) Segmentations
-=====================================
+Hearst (1997) Manual Segmentations
+==================================
 
 In the original text, there are 22 paragraphs, but the version presented to coders contained 21 paragraphs, with paragraphs 4 and 5 merged together as one.  The text contained in this distribution reflects this merging.
 
