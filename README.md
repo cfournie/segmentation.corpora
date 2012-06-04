@@ -1,7 +1,7 @@
 Segmentation Corpora
 ====================
 
-This repository holds multiply segmented corpora from the papers below.  The data formats are as specified in the `Segmentation Representation Specifcation Version 0.1 <http://nlp.chrisfournier.ca/publications/pdf/fournier_segeval_spec_2012.pdf>`_(PDF), and are of two types:
+This repository holds multiply segmented corpora from the papers below.  The data formats are as specified in the [Segmentation Representation Specifcation Version 0.1](http://nlp.chrisfournier.ca/publications/pdf/fournier_segeval_spec_2012.pdf)(PDF), and are of two types:
 
 - JSON (JavaScript Object Notation) or
 - TSV (Tab Separated Values)
