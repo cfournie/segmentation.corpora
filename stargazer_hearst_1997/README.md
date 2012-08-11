@@ -9,7 +9,7 @@ Note that the original PDF version of the article "[Stargazers look for life](ht
 Files
 -----
 - article.txt  - UTF-8 text of the article paragraphs (and title as first line)
-- dataset.json - JSON specification v1.0 representation of segmentation codings.
+- dataset.json - JSON specification v1.1 representation of segmentation codings.
 - dataset.tsv  - TSV specification v1.0 representation of segmentation codings.
 
 References

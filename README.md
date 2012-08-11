@@ -1,17 +1,18 @@
 Segmentation Corpora
 ====================
 
-This repository holds multiply segmented corpora from the papers below.  The data formats are as specified in the [Segmentation Representation Specifcation Version 0.1](http://nlp.chrisfournier.ca/publications/pdf/fournier_segeval_spec_2012.pdf)(PDF), and are of two types:
+This repository holds multiply segmented corpora from the papers below.  The data formats are as specified in the [Segmentation Representation Specifcation Version 1.1](http://nlp.chrisfournier.ca/publications/pdf/fournier_segeval_spec_2012.pdf)(PDF), and are of two types:
 
 - JSON (JavaScript Object Notation) or
 - TSV (Tab Separated Values)
 
-To evaluate this corpora, and other segmentation metrics, use the [SegEval](https://github.com/cfournie/segmentation.evaluation) software package.
+To evaluate this corpora, and other segmentation metrics, use the [SegEval](http://cfournie.github.com/segmentation.evaluation/) software package.
 
 
 Directories
 -----------
-- /hearst_1997/ - Segmentations of "[Stargazers look for life](https://github.com/downloads/cfournie/segmentation.corpora/stargazers_look_for_life.pdf)", by Baker (1990), codings collected by Hearst (1997).
+
+- /stargazer_hearst_1997/ - Segmentations of "[Stargazers look for life](https://github.com/downloads/cfournie/segmentation.corpora/stargazers_look_for_life.pdf)" by Baker (1990), codings collected by Hearst (1997).
 
 
 References
