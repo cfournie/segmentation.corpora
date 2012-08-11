@@ -6,6 +6,12 @@ In the original text, there are 22 paragraphs, but the version presented to code
 Note that the original PDF version of the article "[Stargazers look for life](https://github.com/downloads/cfournie/segmentation.corpora/stargazers_look_for_life.pdf)", by Baker (1990) is also available.
 
 
+Files
+-----
+- article.txt  - UTF-8 text of the article paragraphs (and title as first line)
+- dataset.json - JSON specification v1.0 representation of segmentation codings.
+- dataset.tsv  - TSV specification v1.0 representation of segmentation codings.
+
 References
 ----------
 
