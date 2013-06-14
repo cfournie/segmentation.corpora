@@ -17,7 +17,7 @@ References
 
 Coleridge (1816)	Samuel Taylor Coleridge. 1816. Christabel, Kubla Khan, and the Pains of Sleep. John Murray.
 
-Fournier (2013)   
+Fournier (2013)		An initial study of topical poetry segmentation. Proceedings of the Second Workshop on Computational Linguistics for Literature, pp. 47-51. Association for Computational Linguistics, Stroudsburg, PA, USA.
 
 .. code-block:: latex
 
