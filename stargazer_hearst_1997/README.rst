@@ -11,7 +11,7 @@ Note that the original PDF version of the article "`Stargazers look for life <ht
 Files
 -----
 
-* ``article.txt``  - UTF-8 text of the article paragraphs (and title as first line)
+* ``article.txt`` UTF-8 text of the article paragraphs (and title as first line)
 
 
 References

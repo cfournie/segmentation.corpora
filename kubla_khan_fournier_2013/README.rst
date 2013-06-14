@@ -7,9 +7,9 @@ Linear segmentations of the poem Kubla Kahn collected by Fournier (2013).
 Files/Folders
 -------------
 
-* ``labels.csv`` -- Segment type labels annotated by Chris Fournier
-* ``poem.txt`` -- UTF-8 text of the peom's lines
-* ``/raw/`` -- Raw Mechanical Turk output 
+* ``labels.csv`` Segment type labels annotated by Chris Fournier
+* ``poem.txt`` UTF-8 text of the peom's lines
+* ``/raw/`` Raw Mechanical Turk output 
 
 
 References
