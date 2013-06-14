@@ -12,6 +12,6 @@ To evaluate this corpora, and other segmentation metrics, use the `SegEval <http
 Directories
 -----------
 
-	* ``/kubla_khan_fournier_2013/`` and ``kubla_khan_fournier_2013.json``  - Segmentations of the poem `Kubla Khan <http://en.wikipedia.org/wiki/Kubla_Khan>`_ by Samuel Taylor Coleridge (1816), codings collected by Fournier (2013); and
-	* ``/stargazer_hearst_1997/`` and ``stargazer_hearst_1997.json`` - Segmentations of `Stargazers look for life <https://github.com/downloads/cfournie/segmentation.corpora/stargazers_look_for_life.pdf>`_ by Baker (1990), codings collected by Hearst (1997).
+* ``/kubla_khan_fournier_2013/`` and ``kubla_khan_fournier_2013.json``  - Segmentations of the poem `Kubla Khan <http://en.wikipedia.org/wiki/Kubla_Khan>`_ by Samuel Taylor Coleridge (1816), codings collected by Fournier (2013); and
+* ``/stargazer_hearst_1997/`` and ``stargazer_hearst_1997.json`` - Segmentations of `Stargazers look for life <https://github.com/downloads/cfournie/segmentation.corpora/stargazers_look_for_life.pdf>`_ by Baker (1990), codings collected by Hearst (1997).
 

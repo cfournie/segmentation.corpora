@@ -1,6 +1,8 @@
 "Stargazer" Manual Segmentations (Hearst, 1997)
 ===============================================
 
+Linear segmentations of the popular science article "Stargazers look for life" collected by Hearst (1997).
+
 In the original text, there are 22 paragraphs, but the version presented to coders contained 21 paragraphs, with paragraphs 4 and 5 merged together as one.  The text contained in this distribution reflects this merging.
 
 Note that the original PDF version of the article "`Stargazers look for life <https://github.com/downloads/cfournie/segmentation.corpora/stargazers_look_for_life.pdf>`_", by Baker (1990) is also available.
@@ -9,7 +11,7 @@ Note that the original PDF version of the article "`Stargazers look for life <ht
 Files
 -----
 
-	* ``article.txt``  - UTF-8 text of the article paragraphs (and title as first line)
+* ``article.txt``  - UTF-8 text of the article paragraphs (and title as first line)
 
 
 References
